@@ -24,7 +24,7 @@ You can access the following endpoint:
 
 -Pokemons
 
-`GET /pokemon?offset=10&limit=154 - Response Example`
+`GET /pokemon?offset=1000&limit=154 - Response Example`
 
 ```json
 {
