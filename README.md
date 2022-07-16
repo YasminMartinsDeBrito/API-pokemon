@@ -7,16 +7,16 @@ yarn install
 
 ## 2. configure environment variable .env
 ```
-PORT=3000
+PORT=5000
 ```
 
 ## 3. Start the Rest API server
 ```
-yarn start
+yarn run dev
 ```
 The server is now running on 
 ```
-http://localhost:3000
+http://localhost:5000
 ```
 
 # API Endpoints
