@@ -16,5 +16,5 @@ registerRouters(app)
 const port = process.env.PORT ?? 3333
 
 app.listen(port, () => {
-    console.log(`App running on http:localhost:${port}`)
+    console.log(`App running on https://localhost:${port}`)
 })
